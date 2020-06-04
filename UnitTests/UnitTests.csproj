@@ -17,4 +17,7 @@
     <ProjectReference Include="..\HWUT\HWUT.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="..\.editorconfig" />
+  </ItemGroup>
 </Project>
